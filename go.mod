@@ -1,4 +1,4 @@
-module github.com/polyglot-k/observa-mcp
+module github.com/polyglot-k/prometheus-mcp-server
 
 go 1.25.5
 
