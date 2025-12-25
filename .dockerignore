@@ -1,0 +1,5 @@
+.git
+.gitignore
+observa-go.exe
+*.exe
+mcp_config.json
