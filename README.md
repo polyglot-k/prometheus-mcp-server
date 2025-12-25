@@ -1,5 +1,8 @@
 # Prometheus MCP Server
 
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+
+
 Claude나 Gemini 같은 AI 모델이 Prometheus에 접속하여 메트릭을 조회하고 분석할 수 있게 해주는 MCP(Model Context Protocol) 서버입니다.
 
 ## 기능
