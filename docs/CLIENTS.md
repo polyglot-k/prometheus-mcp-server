@@ -21,7 +21,7 @@ Claude Desktop 앱에서 이 서버를 사용하려면 설정 파일을 수정�
         "-i",
         "--rm",
         "-e", "PROMETHEUS_URL=http://host.docker.internal:9090",
-        "ghcr.io/polyglot-k/prometheus-mcp:latest"
+        "ghcr.io/polyglot-k/prometheus-mcp-server:latest"
       ]
     }
   }

@@ -52,7 +52,7 @@ GitHub Container Registry(GHCR)에서 최신 이미지를 받아 실행할 수 �
       "args": [
         "run", "-i", "--rm",
         "-e", "PROMETHEUS_URL=http://host.docker.internal:9090",
-        "ghcr.io/polyglot-k/prometheus-mcp:latest"
+        "ghcr.io/polyglot-k/prometheus-mcp-server:latest"
       ]
     }
   }
